@@ -17,7 +17,7 @@ class Rtree2mdCommand(sublime_plugin.TextCommand):
       if (matchH1):
         if (mdText != ''):
           mdText += "\n"
-        mdText += line.replace(matchH1.group(1),'#')
+        mdText += re.sub(r"^\d+\s",'#',line)
         mdText += "\n"
         continue
 
