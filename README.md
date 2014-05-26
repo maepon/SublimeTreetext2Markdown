@@ -21,7 +21,9 @@ Tree.appで出力したTXTファイルをマークダウンの雛形に変換
 
 ### Package Control
 
-今のところは予定なしです。
+公式レポジトリへの登録は今のところは予定なしです。
+
+Package Controlで```https://github.com/maepon/SublimeTreetext2Markdown```をAdd RepositoryするとPackage Controlからのインストールが可能になります。
 
 ### 手動インストール
 
