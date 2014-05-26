@@ -10,17 +10,11 @@ Tree.appで出力したTXTファイルをマークダウンの雛形に変換
 
 ### Tree.appでTextファイルを出力
 
-![STEP1](./step1.png)
+![STEP1](./step1.png)<br>「ナンバリングを含める」「インデントする」を有効にしてTextファイルを保存
 
-「ナンバリングを含める」「インデントする」を有効にしてTextファイルを保存
+![STEP2](./step2.png)<br>コマンドパレットで```TreeText2markdown```を実行
 
-![STEP2](./step2.png)
-
-コマンドパレットで```TreeText2markdown```を実行
-
-![STEP3](./step3.png)
-
-ざっくり変換する
+![STEP3](./step3.png)<br>ざっくり変換する
 
 
 ## インストール
