@@ -25,7 +25,7 @@ Tree.appで出力したTXTファイルをマークダウンの雛形に変換
 
 ### 手動インストール
 
-**Zip 解凍してインストール**: [github](https://github.com/maepon/SublimeTreetext2Markdown) から zip ファイルをダウンロードして、"Packages" フォルダないに解凍すれば OK です。
+**Zip 解凍してインストール**: [github](https://github.com/maepon/SublimeTreetext2Markdown) から zip ファイルをダウンロードして、"Packages" フォルダ内に解凍すれば OK です。
 
 **Git でインストール**: "Packages" フォルダに下記のコマンドで clone してください。
 
