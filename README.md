@@ -16,6 +16,11 @@ Tree.appで出力したTXTファイルをマークダウンの雛形に変換
 
 ![STEP3](./step3.png)<br>ざっくり変換する
 
+### 見出しをリストに変換
+
+![2list Step1](./header2list1.png)<br>変換対象の見出しを選択し、```TreeText2markdown: rtreeheader2list```を実行
+
+![2list Step2](./header2list2.png)<br>見出しのレベルを反映した入れ子の状態に変換
 
 ## インストール
 
