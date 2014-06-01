@@ -1,7 +1,7 @@
 SublimeTreetext2Markdown
 ========================
 
-Convert template for mark down the TXT file that was output by Tree.app
+Convert template for mark down the TXT file that was output by [Tree.app](http://www.topoftree.jp/en/tree/)
 
 Command
 : ```TreeText2markdown```
