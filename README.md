@@ -1,39 +1,39 @@
 SublimeTreetext2Markdown
 ========================
 
-Tree.appで出力したTXTファイルをマークダウンの雛形に変換
+Convert template for mark down the TXT file that was output by Tree.app
 
-コマンド
+Command
 : ```TreeText2markdown```
 
-## 利用方法
+## How to Use
 
-### Tree.appでTextファイルを出力
+### The output TXT file in the Tree.app
 
-![STEP1](./step1.png)<br>「ナンバリングを含める」「インデントする」を有効にしてTextファイルを保存
+![STEP1](./step1.png)<br>Check 「Include Numbering」「Append Indent」
 
-![STEP2](./step2.png)<br>コマンドパレットで```TreeText2markdown```を実行
+![STEP2](./step2.png)<br>Run ```TreeText2markdown```.
 
-![STEP3](./step3.png)<br>ざっくり変換する
+![STEP3](./step3.png)<br>Conversion complete
 
-### 見出しをリストに変換
+### Convert to list a heading.
 
-![2list Step1](./header2list1.png)<br>変換対象の見出しを選択し、```TreeText2markdown: rtreeheader2list```を実行
+![2list Step1](./header2list1.png)<br>Select the heading to be converted.　And run ```TreeText2markdown: rtreeheader2list```.
 
-![2list Step2](./header2list2.png)<br>見出しのレベルを反映した入れ子の状態に変換
+![2list Step2](./header2list2.png)<br>Conversion complete
 
-## インストール
+## Installation
 
-### Package Control
+### With the Package Control
 
-公式レポジトリへの登録は今のところは予定なしです。
+Comming soon ...
 
-Package Controlで```https://github.com/maepon/SublimeTreetext2Markdown```をAdd RepositoryするとPackage Controlからのインストールが可能になります。
+### Manually
 
-### 手動インストール
+Without Git: Download the latest source zip from github and extract the files to your Sublime Text "Packages" directory, into a new directory named SublimeNFDToNFCPaste.
 
-**Zip 解凍してインストール**: [github](https://github.com/maepon/SublimeTreetext2Markdown) から zip ファイルをダウンロードして、"Packages" フォルダ内に解凍すれば OK です。
+**Without Git:**: Download the latest source zip from [github](https://github.com/maepon/SublimeTreetext2Markdown) and extract the files to your Sublime Text "Packages" directory, into a new directory named SublimeTreetext2Markdown.
 
-**Git でインストール**: "Packages" フォルダに下記のコマンドで clone してください。
+**With Git**: "Clone the repository in your Sublime Text "Packages" directory:
 
     git clone git://github.com/maepon/SublimeTreetext2Markdown.git SublimeTreetext2Markdown
