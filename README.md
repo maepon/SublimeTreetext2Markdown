@@ -30,8 +30,6 @@ Comming soon ...
 
 ### Manually
 
-Without Git: Download the latest source zip from github and extract the files to your Sublime Text "Packages" directory, into a new directory named SublimeNFDToNFCPaste.
-
 **Without Git:**: Download the latest source zip from [github](https://github.com/maepon/SublimeTreetext2Markdown) and extract the files to your Sublime Text "Packages" directory, into a new directory named SublimeTreetext2Markdown.
 
 **With Git**: "Clone the repository in your Sublime Text "Packages" directory:
