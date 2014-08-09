@@ -26,7 +26,7 @@ Command
 
 ### With the Package Control
 
-Comming soon ...
+nnn ...
 
 ### Manually
 
